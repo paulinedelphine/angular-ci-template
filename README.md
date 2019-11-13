@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/paulinedelphine/angular-ci-template.svg?branch=master)](https://travis-ci.org/paulinedelphine/angular-ci-template)
+
 # DelphinQueen
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
